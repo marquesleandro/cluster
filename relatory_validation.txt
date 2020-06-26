@@ -1,0 +1,53 @@
+                                 COPYRIGHT                                 
+ ========================================================================== 
+ This relatory was created by Leandro Marques at 2020-06-25 23:22:53.523999
+ e-mail: marquesleandro67@gmail.com 
+ Gesar Search Group 
+ State University of the Rio de Janeiro 
+ ========================================================================== 
+
+
+ Simulator Name: aleBackwardFacingStep.py
+ Benchmark Problem: linear Backward Facing Step
+ Scheme: Semi Lagrangian
+ Element Type: Analytic Linear Element
+ Gaussian Quadrature (Gauss Points): 3
+
+ ------------------------- 
+ PARAMETERS OF SIMULATION: 
+ ------------------------- 
+ Mesh: linearBackwardFacingStep.msh
+ Number of nodes: 1869
+ Number of elements: 3447
+ Smallest edge length: 0.1699299
+ Time step: 0.002
+ Number of time iteration: 4999
+ Reynolds number: 10.0
+ Schmidt number: 1.0
+
+
+ ------------ 
+ IMPORT MESH: 
+ ------------ 
+ time duration: 0.263 seconds
+
+ --------- 
+ ASSEMBLY: 
+ --------- 
+ time duration: 6.462 seconds
+
+ -------------------------------- 
+ INITIAL AND BOUNDARY CONDITIONS: 
+ -------------------------------- 
+ time duration: 1.899 seconds
+
+ ---------------------------- 
+ SOLVE THE LINEARS EQUATIONS: 
+ ---------------------------- 
+ time duration: 13118.905 seconds
+
+ ------------ 
+ OBSERVATION: 
+ ------------ 
+results for validation
+
